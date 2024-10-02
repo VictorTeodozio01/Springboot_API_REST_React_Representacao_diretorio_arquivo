@@ -1,4 +1,4 @@
-Para rodar o projeto, abra o Prompt de Comando dentro da pasta 'Frontend' e execute o seguinte comando: npm run dev, Foi utilizado o concurrently para que o frontend seja executado junto com o backend, através da modificação dentro do arquivo package.json na pasta 'Frontend'.
+Para rodar o projeto, abra o Prompt de Comando dentro da pasta 'Frontend' e execute o seguinte comando: npm run dev, Foi utilizado o concurrently para que o frontend em react seja executado junto com o backend, através da modificação dentro do arquivo package.json na pasta 'Frontend'.
 
 Quando terminar de compilar, espere alguns segundos e verifique se o backend foi iniciado através do endereço: http://localhost:8080/. Se aparecer a mensagem "Hello World!", significa que deu certo.
 
